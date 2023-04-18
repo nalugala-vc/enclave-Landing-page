@@ -5,17 +5,26 @@ This project is a landing page for Enclave, a school management system. It is bu
 
 ## Technologies Used
 HTML
+
 CSS
+
 JavaScript
-Features
+
+## Features
 Clean and modern design
+
 Responsive layout for different screen sizes
+
 Smooth scrolling effect
+
 Animated elements to enhance user experience
+
 Contact form for users to get in touch
 ## Usage
 Clone the repository to your local machine.
+
 Open the index.html file in your web browser to view the landing page.
+
 Credits
 This project was developed by [Your Name] as part of [Your Course/Program]. Special thanks to [Any acknowledgements or attributions].
 
