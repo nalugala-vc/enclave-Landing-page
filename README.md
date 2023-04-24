@@ -25,10 +25,10 @@ Clone the repository to your local machine.
 
 Open the index.html file in your web browser to view the landing page.
 
-Credits
+## Credits
 This project was developed by Venessa Chebukwa as part of My 2nd year Software engineering project. Special thanks to all my software engineering group members.
 
-License
+## License
 This project is open-source and available under the MIT License.
 
 Feel free to check out the live demo [here](https://nalugala-vc.github.io/enclave-Landing-page/)
