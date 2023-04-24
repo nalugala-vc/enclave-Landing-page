@@ -26,7 +26,7 @@ Clone the repository to your local machine.
 Open the index.html file in your web browser to view the landing page.
 
 Credits
-This project was developed by [Your Name] as part of [Your Course/Program]. Special thanks to [Any acknowledgements or attributions].
+This project was developed by Venessa Chebukwa as part of My 2nd year Software engineering project. Special thanks to all my software engineering group members.
 
 License
 This project is open-source and available under the MIT License.
